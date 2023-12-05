@@ -16,9 +16,7 @@
   💻 I love learning code, and improving myself!
   <br>
   📚 I’m currently building:<br>
-  - A opensource Cloud File Sharing, Link Shorter <a href="https://opencloud.rf.gd/">Opencloud</a><br>
-  - Forum site called <a href="https://github.com/softeron-forums">Softeron</a>
-  <br>
+  - 🐝Developer of FileHive a cloud file sharing site: <a href="https://filehive.rf.gd/">filehive.rf.gd</a><br>
   💬 Ask me anything <a href="https://github.com/audixdev/audixdev/issues" title="Issues">here</a>
   <br>
   📫 How to reach me: <a href="mailto: audixdev@gmail.com">audixdev@gmail.com</a>
