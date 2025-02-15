@@ -11,7 +11,9 @@
   Hi, I'm audixdev.
   <br>
   <br>
-  🔬 I'm currently studying for a ICT/IT Software Developer degree.
+  🔬 I'm currently studying for a ICT Software Developer degree.
+  <br>
+  🌐 I've been focusing a lot on API-related projects, either helping others with them or coding them myself.
   <br>
   💻 I love learning code, and improving myself!
   <br>
