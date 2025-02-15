@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm audixdev, Software Engineer from the Netherlands.
+  Hi, I'm audixdev.
   <br>
   <br>
   🔬 I'm currently studying for a ICT/IT Software Developer degree.
@@ -16,7 +16,7 @@
   💻 I love learning code, and improving myself!
   <br>
   📚 I’m currently building:<br>
-  - 🐝Developer of FileHive a cloud file sharing site: <a href="https://filehive.rf.gd/">filehive.rf.gd</a><br>
+  - 🐝A <strong>REDACTED</strong> project which has been getting alot of progress lately.<br><br />
   💬 Ask me anything <a href="https://github.com/audixdev/audixdev/issues" title="Issues">here</a>
   <br>
   📫 How to reach me: <a href="mailto: audixdev@gmail.com">audixdev@gmail.com</a>
