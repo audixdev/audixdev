@@ -14,10 +14,9 @@
   🔬 I'm currently studying for a ICT Software Developer degree.
   <br>
   🌐 I've been focusing a lot on API-related projects, either helping others with them or coding them myself.
-  <br>
-  💻 I love learning code, and improving myself!
-  <br>
+  <br><br>
   📚 I’m currently building:<br>
+  - 🔧 The <a href="https://github.com/CP-Island-Localhost-Server/OpenCPI-Web-API">WebAPI</a> for <a href="https://github.com/CP-Island-Localhost-Server">OpenCPI</a> (An open-source, non-proft, Club Penguin Island project)<br>
   - 🐝A <strong>REDACTED</strong> project which has been getting alot of progress lately.<br><br />
   💬 Ask me anything <a href="https://github.com/audixdev/audixdev/issues" title="Issues">here</a>
   <br>
