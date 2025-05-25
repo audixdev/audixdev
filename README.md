@@ -16,8 +16,8 @@
   🌐 I've been focusing a lot on API-related projects, either helping others with them or coding them myself.
   <br><br>
   📚 I’m currently building:<br>
+  - 🔧 A lightweight system information tool for Ubuntu and Windows that provides detailed hardware and software insights, including CPU, memory, disk usage, OS details, and network status, all in a clean, user-friendly interface. <a href="https://github.com/sysINF">sysINF</a>
   - 🔧 The <a href="https://github.com/OpenCPIsland/OpenCPI-Web-API">WebAPI</a> for <a href="https://github.com/OpenCPIsland">OpenCPI</a> (An open-source, non-proft, Club Penguin Island project)<br>
-  - 🐝A <strong>REDACTED</strong> project which has been getting alot of progress lately.<br><br />
   💬 Ask me anything <a href="https://github.com/audixdev/audixdev/issues" title="Issues">here</a>
   <br>
   📫 How to reach me: <a href="mailto: audixdev@gmail.com">audixdev@gmail.com</a>
