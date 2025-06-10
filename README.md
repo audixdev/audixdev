@@ -16,6 +16,7 @@
   🌐 I've been focusing a lot on API-related projects, either helping others with them or coding them myself.
   <br><br>
   📚 I’m currently building:<br>
+  - 🔧 <a href="https://audixdev.github.io/MaterialLab/">MaterialLab</a> - A browser-based drag-and-drop widget playground with theme customization and persistent background support.<br>
   - 🔧 <a href="https://github.com/openomen">OpenOMEN</a> - Unofficial driver and daemon for HP OMEN hardware on Ubuntu Linux.<br>
 
   <br>
