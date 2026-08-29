@@ -22,7 +22,7 @@
   <br>
   💬 Ask me anything <a href="https://github.com/audixdev/audixdev/issues" title="Issues">here</a>
   <br>
-  📫 How to reach me: <a href="mailto: audixdev@gmail.com">audixdev@gmail.com</a>
+  📫 How to reach me: <a href="mailto: audixdev@gmail.com">audixdev@gmail.com</a> & <a href="https://discord.com/users/1114205353991745618">Discord (audixdev)</a>
 </p>
 
 <hr>
