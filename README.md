@@ -17,6 +17,7 @@
   <br><br>
   📚 I’m currently building:<br>
   - 🔧 <a href="https://github.com/openomen">OpenOMEN</a> - Unofficial driver and daemon for HP OMEN hardware on Ubuntu Linux.<br>
+  - 🤖 <a href="https://github.com/audixdev/beacon">Beacon</a> - Free, self-hosted SEO + GEO audit dashboard.<br>
   - 🔧 And more behind the scenes...<br>
 
   <br>
